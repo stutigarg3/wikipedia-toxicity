@@ -8,17 +8,17 @@ The Wikipedia Talk Labels dataset is a collection of around 160,000 comments fro
 
 # Summary Statistics:
 
-Total number of comments: 159,686
-Number of toxic comments: 16,087 (10.07%)
-Number of non-toxic comments: 143,599 (89.93%)
-Average length of comments (in characters): 297.7
-Minimum length of comments (in characters): 6
-Maximum length of comments (in characters): 5,466
-
+* Total number of comments: 159,686
+* Number of toxic comments: 16,087 (10.07%)
+* Number of non-toxic comments: 143,599 (89.93%)
+* Average length of comments (in characters): 297.7
+* Minimum length of comments (in characters): 6
+* Maximum length of comments (in characters): 5,466
 
 Visualization:
 
-						Fig.1
+<img width="685" alt="Screen Shot 2023-11-06 at 6 40 31 PM" src="https://github.com/stutigarg3/wikipedia-toxicity/assets/115505324/753b5537-b554-41a8-911c-d51f927481aa">
+					
 Fig.1: Histogram of comment lengths: A histogram of comment lengths shows that the distribution is positively skewed, with a long tail towards the right. The majority of comments are relatively long, with a peak around 750-1000 words in length. However, there are also a significant number of comments that are much longer, with some exceeding 5,000 characters.
 
 
