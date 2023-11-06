@@ -43,8 +43,9 @@ Scikit learn, Tensor flow, Keras.
 For this text classification task, we will be using TensorFlow and the Keras API to build sequential models for classifying text. To improve the performance of our models, we plan to use hyperparameter tuning to explore multiple architectures and maximize the F1 score, particularly given the unbalanced nature of our dataset. Additionally, we will use Scikit-Learn to build standard text classification algorithms, such as Naive-Bayes and SVM. This will allow us to compare the performance of our deep learning models with traditional machine learning algorithms and determine which approach works best for our specific task.
 
 
- MODEL                    ACCURACY                 AUC ROC
-Logistic Regression        78.7%                     0.57
-Naive Bayes                88.9%                     0.75
-Support Vector Machine     83.25%                    0.56
+ |MODEL                   | ACCURACY       | AUC ROC |
+ |------------------------|----------------|---------|
+ |Logistic Regression     |   78.7%        |  0.57   | 
+ |Naive Bayes             |   88.9%        |  0.75   |
+ |Support Vector Machine  |   83.25%       |   0.56  |
 
